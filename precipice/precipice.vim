@@ -65,4 +65,10 @@ hi spellRare    guisp=#fcaf3e
 hi spellLocal   guisp=#729fcf
 
 " Java/ Processing specific
-hi javaOperator guifg=#c0c0c0
+hi javaOperator guifg=#c0c0c0                                           " White-ish
+hi javaStorageClass guifg=#c0c0c0                                       " White-ish
+hi javaConditional guifg=#c0c0c0                                        " White-ish
+hi javaLineComment guifg=#868686                                        " Gray-ish
+hi javaStatement guifg=#FF8A73                                          " Salmon
+hi javaNumber guifg=#E46CFF                                             " Hot pink
+hi javaType guifg=#9EF7FF                                               " Light cyan
