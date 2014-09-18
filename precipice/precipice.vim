@@ -23,7 +23,7 @@ hi Normal       guifg=#99CC39 guibg=#202020                             " Blue n
 hi Cursor		guibg=#444454 guifg=#F8F8FF
 
 " Line Numbering / Status Lines
-hi LineNr		guifg=#296B73 guibg=#F0F0F0 gui=BOLD
+hi LineNr		guifg=#777777 guibg=#303030
 hi NonText		guifg=#808080 guibg=#ECECEC
 hi Folded		guifg=#808080 guibg=#ECECEC gui=BOLD
 hi FoldeColumn  guifg=#808080 guibg=#ECECEC gui=BOLD
@@ -42,7 +42,7 @@ hi Search		guibg=#D8F2F0 guifg=#000000 gui=ITALIC                  " Blue number
 hi Ignore		guifg=#808080
 hi Identifier	guifg=#296B73 gui=UNDERLINE                             " Blue number 3
 hi PreProc		guifg=#A0A0A0 gui=BOLD
-hi Comment		guifg=#1A753C                                           " Green
+hi Comment		guifg=#868686                                           " Gray-ish
 hi Constant		guifg=#177F80 gui=NONE
 hi String		guifg=#3E8C84                                           " Blue number 4
 hi Function		guifg=#296B73 gui=UNDERLINE                             " Blue number 3
