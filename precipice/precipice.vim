@@ -72,6 +72,9 @@ hi javaLineComment guifg=#868686                                        " Gray-i
 hi javaStatement guifg=#FF8A73                                          " Salmon
 hi javaNumber guifg=#E46CFF                                             " Hot pink
 hi javaType guifg=#9EF7FF                                               " Light cyan
+hi javaScopeDecl gui=bold
+hi javaStorageClass gui=bold
+hi javaRepeat guifg=#20ee40
 
 " Python specific
 hi pythonStatement guifg=#FF8A73                                          " Salmon
