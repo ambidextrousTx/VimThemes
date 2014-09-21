@@ -74,12 +74,12 @@ hi javaNumber guifg=#E46CFF                                             " Hot pi
 hi javaType guifg=#9EF7FF                                               " Light cyan
 hi javaScopeDecl gui=bold
 hi javaStorageClass gui=bold
-hi javaRepeat guifg=#20ee40
+hi javaRepeat guifg=#20EE40
 
 " Python specific
 hi pythonStatement guifg=#FF8A73                                          " Salmon
-hi pythonConditional guifg=#868686                                        " Gray-ish
-hi pythonFunction guifg=#E46CFF                                             " Hot pink
+hi pythonConditional guifg=#C0C0C0                                        " Gray-ish
+hi pythonFunction guifg=#20EE40                                             " Green
 hi pythonNumber guifg=#E46CFF                                             " Hot pink
 hi pythonOperator guifg=#9EF7FF                                               " Light cyan
 hi pythonRepeat guifg=#F02020                                            " Reddish
